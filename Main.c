@@ -2,6 +2,6 @@
 
 main()
 {
-    printf("CyRoc Rules");
+    printf("CyRoc Rules ");
 
 }
